@@ -6,6 +6,7 @@ body{
 #title{
     background-color: #ff4c68;
     color: #fff;
+    overflow: hidden;
 }
 
 #tagline{
@@ -44,4 +45,9 @@ body{
 .title-img{
     width: 60%;
     transform: rotate(25deg);
+}
+
+.img-div{
+    display: flex;
+    justify-content: center;
 }
