@@ -84,3 +84,39 @@ body{
 .feature p{
     color: #8f8f8f;
 }
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+#testimonials h2{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+.testimonial-img{
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+
+#testimonials em{
+    font-size: 1.5rem;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-img{
+    margin: 1.5%;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
