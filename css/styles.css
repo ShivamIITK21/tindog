@@ -51,3 +51,36 @@ body{
     display: flex;
     justify-content: center;
 }
+
+#features{
+    margin: 50px 0 50px 0;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.feature{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.feature-icon{
+    font-size: 100px;
+    color: #ef8172;
+    margin-bottom: 10px;
+}
+
+.feature-icon:hover{
+    color: #ff4c68;
+}
+
+.feature h3{
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.feature p{
+    color: #8f8f8f;
+}
